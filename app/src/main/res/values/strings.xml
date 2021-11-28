@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas6_1918067</string>
+    <string-array name="city_list">
+        <item>Semarang</item>
+        <item>Bojonegoro</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Madura</item>
+    </string-array>
+</resources>
